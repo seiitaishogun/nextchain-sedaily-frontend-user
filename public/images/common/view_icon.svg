@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g data-name="그룹 6">
+        <g data-name="교차 1" style="fill:none">
+            <path d="M2.676 30C5.335 24.021 10.306 20 16 20s10.665 4.022 13.324 10c-2.66 5.978-7.63 10-13.324 10S5.335 35.978 2.676 30z" style="stroke:none" transform="translate(-1 -15)"/>
+            <path d="M16 22c-2.305 0-4.581.81-6.584 2.345-1.813 1.39-3.367 3.333-4.53 5.655 1.163 2.321 2.717 4.264 4.53 5.654C11.42 37.19 13.695 38 16 38c2.305 0 4.581-.811 6.583-2.346 1.814-1.39 3.368-3.333 4.53-5.654-1.162-2.322-2.716-4.265-4.53-5.655C20.581 22.811 18.305 22 16 22m0-2c5.694 0 10.664 4.021 13.324 10-2.66 5.978-7.63 10-13.324 10S5.335 35.978 2.676 30C5.336 24.02 10.306 20 16 20z" style="fill:#a0a0a0;stroke:none" transform="translate(-1 -15)"/>
+        </g>
+        <g data-name="타원 4" transform="translate(9 9)" style="stroke:#a0a0a0;stroke-width:2px;fill:none">
+            <circle cx="6" cy="6" r="6" style="stroke:none"/>
+            <circle cx="6" cy="6" r="5" style="fill:none"/>
+        </g>
+    </g>
+    <path data-name="사각형 14" style="fill:none" d="M0 0h30v30H0z"/>
+</svg>
